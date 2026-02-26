@@ -1,21 +1,28 @@
-// This is your Prisma schema file,
-// learn more about it in the docs: https://pris.ly/d/prisma-schema
-
 generator client {
-  provider = "prisma-client"
-  output   = "../generated/prisma"
+  provider = "prisma-client-js"
 }
 
 datasource db {
   provider = "sqlite"
 }
 
+model StatementTable {
+  id           Int           @id @default(autoincrement())
+  name         String        @unique  // user's chosen name ex. "2025 Savings"
+  account      String        // e.g. "PrimarySavings"
+  createdAt    DateTime      @default(now())
+  transactions Transaction[]
+}
+
 model Transaction {
-  id          Int      @id @default(autoincrement())
-  date        DateTime
-  description String
-  amount      Float
-  category    String?
-  notes       String?
-  createdAt   DateTime @default(now())
+  id               Int            @id @default(autoincrement())
+  date             DateTime
+  description      String
+  amount           Float
+  type             String         // "withdrawal" or "deposit"
+  balance          Float
+  category         String?        // user can assign later
+  statementTableId Int
+  statementTable   StatementTable @relation(fields: [statementTableId], references: [id])
+  createdAt        DateTime       @default(now())
 }

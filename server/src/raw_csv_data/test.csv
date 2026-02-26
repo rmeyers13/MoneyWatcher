@@ -1,0 +1,46 @@
+DATE,TRANSACTION DESCRIPTION,WITHDRAWALS,DEPOSITS,BALANCE
+"",PREVIOUS BALANCE,,,"3,309.25"
+JAN02,TRANSFERFROM/TO3,-125.00,,"3,184.25"
+"",Weekly transfer to Free Checking,,,
+"",Car Money Transfer ~ 1189af9e-4445,,,
+JAN05,TRANSFERFROM/TO2,-76.25,,"3,108.00"
+"",One time transfer to Free Checking ~ e3f26fa5-a548-4921-93ac-a362535d8,,,
+JAN05,TRANSFER5858706FROM/TO2,-60.00,,"3,048.00"
+"",One time transfer to John Checking ~ cec8f8fa-7db4-4f36-a096-91776a4b3,,,
+JAN06,TRANSFERFROM/TO2,-43.00,,"3,005.00"
+"",One time transfer to Free Checking ~ 12738be3-4324-4e87-91bf-d85df5116,,,
+JAN07,TRANSFERFROM/TO2,,"1,000.00","4,005.00"
+"",One time transfer to Primary Savings ~ 050e9d34-9b5e-42ff-afb7-6449aec,,,
+JAN09,TRANSFERFROM/TO2,-75.00,,"3,930.00"
+"",One time transfer to Free Checking ~ 371a9ba6-27cc-4e7a-8503-7737dfc32,,,
+JAN09,TRANSFERFROM/TO3,-125.00,,"3,805.00"
+"",Weekly transfer to Free Checking,,,
+"",Car Money Transfer ~ 1189af9e-4445,,,
+JAN09,TRANSFERFROM/TO2,-50.00,,"3,755.00"
+"",One time transfer to Free Checking ~ 102a99c3-cd60-48bb-af43-c65f3f320,,,
+JAN10,TRANSFERFROM/TO2,-50.00,,"3,705.00"
+"",One time transfer to Free Checking ~ 6d28405b-4ab6-419c-9b98-5b2d0070c,,,
+JAN12,TRANSFERFROM/TO2,-300.00,,"3,405.00"
+"",One time transfer to Free Checking ~ e34259e1-2ae7-409b-bf8c-b36acf3f3,,,
+JAN12,TRANSFER5858706FROM/TO2,-350.00,,"3,055.00"
+"",One time transfer to John Checking ~ 815ba86c-b529-424b-b8c0-46fc864c5,,,
+JAN14,TRANSFERFROM/TO2,,800.00,"3,855.00"
+"",One time transfer to Primary Savings ~ c36251b3-e987-4b40-9369-0417e93,,,
+JAN16,TRANSFERFROM/TO3,-125.00,,"3,730.00"
+"",Weekly transfer to Free Checking,,,
+"",Car Money Transfer ~ 1189af9e-4445,,,
+JAN21,TRANSFERFROM/TO2,,275.00,"4,005.00"
+"",One time transfer to Primary Savings ~ 3e067507-8c73-40d2-a15a-5d0fcd2,,,
+JAN23,TRANSFERFROM/TO3,-125.00,,"3,880.00"
+"",Weekly transfer to Free Checking,,,
+"",Car Money Transfer ~ 1189af9e-4445,,,
+JAN26,TRANSFERFROM/TO2,-35.00,,"3,845.00"
+"",One time transfer to Free Checking ~ 21e20096-bd6c-448a-acf8-8252dd1c6,,,
+JAN26,TRANSFERFROM/TO2,-40.00,,"3,805.00"
+"",One time transfer to Free Checking ~ 221f8906-86d2-4926-bd92-34a905668,,,
+JAN29,TRANSFERFROM/TO2,-750.00,,"3,055.00"
+"",One time transfer to Free Checking ~ ee99cbc3-94af-481f-810c-9a495856e,,,
+JAN30,TRANSFERFROM/TO3,-125.00,,"2,930.00"
+"",Weekly transfer to Free Checking,,,
+"",Car Money Transfer ~ 1189af9e-4445,,,
+
