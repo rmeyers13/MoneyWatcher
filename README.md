@@ -1,4 +1,4 @@
-# MoneyWatcher 💰
+# MoneyWatcher 
 
 A personal finance app for parsing, categorizing, and visualizing bank statements.
 
