@@ -6,6 +6,7 @@ node_modules
 .env.local
 
 # Database (don't push your actual bank data)
+*.csv
 *.db
 *.db-journal
 
