@@ -51,7 +51,7 @@ Run Prisma migrations to create the SQLite database:
 npx prisma migrate dev
 ```
 
-Start the backend server:
+Start the backend server (NOT IMPLEMENTED):
 
 ```bash
 npx nodemon src/index.ts
